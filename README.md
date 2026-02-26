@@ -4,7 +4,7 @@ Building AI course project
 
 ## Summary
 
-Email Agent Supervisor is a lightweight governance layer for automated email agents. It detects high-impact situations (M&A interest, legal/compliance requests, security/fraud signals) and decides whether to auto-reply, escalate to a human, or block the workflow. Building AI course project.
+Email Agent Supervisor is a lightweight governance layer for automated email agents. It detects high-impact situations (M&A interest, legal/compliance requests, security/fraud signals) and decides whether to auto-reply, escalate to a human, or block the workflow.
 
 ## Background
 
